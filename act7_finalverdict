@@ -1,0 +1,26 @@
+##Closing Statement – System Evaluation
+
+This investigation does not aim to produce a single definitive conclusion, but to assess whether observed patterns represent meaningful system behavior or misleading noise.
+
+First, all analytical choices were made with justification.
+Data was cleaned to remove invalid trips such as zero distance and inconsistent values, 
+ensuring that conclusions are based on reliable observations. The efficiency metric (fare per distance) was selected as a proxy for system performance, allowing classification into stable, stress, and unstable zones.
+
+Second, assumptions were critically examined.
+While the presence of stress zones and peak-hour patterns may suggest inefficiency or behavioral 
+shifts, alternative explanations such as traffic conditions or pricing structure were considered. This highlights that observed patterns may arise from multiple interacting factors rather than a single cause.
+
+Third, the limits of the analysis are acknowledged.
+The simulation assumes static demand and does not account for real-world behavioral adaptation. 
+Additionally, results are sensitive to how “valid trips” are defined and how efficiency thresholds are chosen. Therefore, conclusions should be interpreted as indicative rather than absolute.
+
+
+
+
+
+Final Judgement
+
+The system does not show clear signs of failure, but it exhibits consistent patterns of stress and 
+sensitivity under certain conditions. These signals appear structured rather than random, suggesting that they are not mere noise, but early indicators of inefficiency.
+However, due to limitations in assumptions and data scope, these findings 
+should be treated as directional insights rather than definitive proof of system degradation.
