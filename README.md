@@ -25,8 +25,9 @@ and built Power BI visuals zone distribution, hourly trends, daily trends, polic
  acknowledged limitations by recognizing that results depend on data cleaning choices, assumptions, and simplified simulation.
 
  DATASET WICH i have used yellow_tripdata_2023-01
+ 
  HARDEST PART IS POWERBI 
-
+AND i understood how datasets are acctually handled and does the analystics
  # THANKYOU SIR !! < :
 
  
