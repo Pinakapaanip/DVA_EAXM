@@ -105,7 +105,7 @@ The system is not failing outright but is gradually drifting toward inefficiency
 
 ---
 
-## 8. Summary (Viva Ready)
+## 8. Summary
 - Critical points: 7 and 9  
 - Efficiency metric: fare / distance  
 - Zones created and visualized  
