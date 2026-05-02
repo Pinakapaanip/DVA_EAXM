@@ -23,7 +23,11 @@ also  classified trips into Stable (<7), Stress (7–9), and Unstable (>9) zones
 
 and built Power BI visuals zone distribution, hourly trends, daily trends, policy comparison to communicate findings clearly.
  acknowledged limitations by recognizing that results depend on data cleaning choices, assumptions, and simplified simulation.
+
+ DATASET WICH i have used yellow_tripdata_2023-01
  HARDEST PART IS POWERBI 
 
  # THANKYOU SIR !! < :
+
+ 
 
